@@ -1,1 +1,4 @@
-# torch_experiments
+This repository contains my experiments about popular deep learning library **PyTorch**.
+
+Currently implemented models 
+* Linear Regression
